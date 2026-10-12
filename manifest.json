@@ -1,0 +1,26 @@
+{
+  "name": "شبكة تقييم رائد",
+  "short_name": "شبكة تقييم رائد",
+  "description": "تطبيق إعداد وحفظ تقرير الزيارة التربوية",
+  "lang": "ar",
+  "dir": "rtl",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#1b4f72",
+  "theme_color": "#1b4f72",
+  "icons": [
+    {
+      "src": "./icons/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "./icons/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ]
+}
